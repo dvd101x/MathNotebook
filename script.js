@@ -100,7 +100,7 @@ function doMath(code) {
   }
 }
 
-
+// This section makes a delayed report, (waits a few seconds of no edits to run)
 const wait = 250
 let timer
 
